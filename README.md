@@ -6,7 +6,6 @@
 <!--
 **jackjohnson18/jackjohnson18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[ArcGIS Online Project] (https://csulb.maps.arcgis.com/apps/mapviewer/index.html?webmap=c5b4b2df65934bdeb2bc40efff1763fe)
 
 ![03polygons-ezgif com-resize](https://github.com/user-attachments/assets/cc5b881f-31c3-4778-8c35-0b27f1df494b)
 ![01normalize-ezgif com-resize](https://github.com/user-attachments/assets/d30bef00-9e96-4390-bba7-22ffd3b5c66b)
